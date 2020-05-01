@@ -2,9 +2,9 @@
 title: Luyunfei Blog
 SEOTitle: 卢云飞的博客 | Luyunfei Blog
 header-img: img/home-bg.jpg
-email: 1573047525@qq.com
-description: "show me your code | 这里是 @Luyunfei 的个人博客，与你一起发现更大的世界。"
-keyword: "卢云飞, 炼丹师，coder, @Luyunfei, 卢云飞的博客, Luyunfei Blog, 博客, 个人网站, 互联网, 图像处理"
+email: 1573047525@qq.com.com
+description: "与你一起发现更大的世界。"
+keyword: "图像处理，深度学习，机器学习，随拍"
 url: "https://hardlu.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -12,9 +12,11 @@ baseurl: ""                             # for example, '/blog' if your blog host
 future: true
 
 # SNS settings
-RSS: false
-
+#RSS: false
 github_username:    HardLu
+#facebook_username:  huxpro
+#linkedin_username:  firstname-lastname-idxxxx
+
 
 
 # Build settings
@@ -54,7 +56,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: yunfeilu
+disqus_username: luyunfei
 
 # Netease settings
 netease_comment: false
@@ -65,8 +67,9 @@ netease_comment: false
 # Baidu Analytics 
 # ba_track_id: [your track id]
 
-
-# ga_domain: luyunfei.me
+# Google Analytics
+# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 
 # Sidebar settings
@@ -92,4 +95,17 @@ service-worker: true
 page-mathjax: false
 
 
-theme: jekyll-theme-time-machine
+
+# Friends
+friends: [
+    {
+         title: "Pytorch",
+         href: "https://github.com/wenliangsun"
+    },{
+        title: "TensorFlow",
+        href: "https://github.com/wenliangsun"
+    },{
+        title: "Keras",
+        href: "https://github.com/wenliangsun"
+    }
+]
