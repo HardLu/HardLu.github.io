@@ -2,7 +2,7 @@
 layout: post
 title: "MICCAI2019StruceSeg分割"
 subtitle: "总结"
-author: Luyunfei
+author: "Luyunfei"
 header-style: text
 tag:
   - 比赛
