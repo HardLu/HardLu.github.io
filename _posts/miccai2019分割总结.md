@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "MICCAI2019StruceSeg分割"
 subtitle: "总结"
