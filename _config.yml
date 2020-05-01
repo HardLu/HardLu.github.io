@@ -1,11 +1,11 @@
-﻿# Site settings
-title: Luyunfei Blog
-SEOTitle: 卢云飞的博客 | Luyunfei Blog
+# Site settings
+title: WenlSun Blog
+SEOTitle: WenlSun的博客 | WenlSun Blog
 header-img: img/home-bg.jpg
-email: 1573047525@qq.com.com
+email: wenlsun@163.com
 description: "与你一起发现更大的世界。"
-keyword: "图像处理，深度学习，机器学习，随拍"
-url: "https://hardlu.github.io/"              # your host, for absolute URL
+keyword: "swenlsun，炼丹师，图像处理，深度学习，机器学习"
+url: "https://wenliangsun.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,7 +13,10 @@ future: true
 
 # SNS settings
 #RSS: false
-github_username:    HardLu
+weibo_username:     5393874969 # caution, non-VIP users maybe using number-ids
+zhihu_username:     wl-sun-15
+github_username:    wenliangsun
+twitter_username:   wenlsun
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -56,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: luyunfei
+disqus_username: wenlsun
 
 # Netease settings
 netease_comment: false
@@ -74,8 +77,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "遗憾太可怕了"
-sidebar-avatar: /img/lyf.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-avatar: /img/wenlsun.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
